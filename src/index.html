@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="shorcut icon" href="#" />
+    <link rel="stylesheet" href="/indexstyle.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Recipe Finder</title>
+    <script type="module" src="/main.js" defer></script>
+    <style>
+      .logo.vanilla:hover {
+          filter: drop-shadow(0 0 2em #ffe21c);
+      }
+    </style>
+  </head>
+
+  <body>
+    <Body id='bgi' background="https://images.rawpixel.com/image_1300/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3B4MTM2OTgxMy1pbWFnZS1rd3Z4eHA5MS5qcGc.jpg"> <br>  
+    <div class="container">
+      <button id="random-search" type="submit" onclick="random_search()" style="position:fixed; top:60px; left:10px;">Surprise me!</button>
+      <button id="about" type="submit" onclick="about_us()" style="position:fixed; top:10px; left:10px;">About the App</button>
+
+      <h1>Welcome to Recipe Finder</h1>
+      <div class="row">
+        <div>
+          <input id="ingredient-input" type="text" placeholder="Enter an ingredient" />
+          <button id="search-button" type="submit" onclick="search()">Search</button>
+        </div>
+      </div>
+      <br>
+      <pre id="boxes"></pre>
+    </div>
+  </body>
+</html>

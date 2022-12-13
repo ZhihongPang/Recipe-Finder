@@ -1,0 +1,767 @@
+{
+    "recipes" : {
+        "Name of the recipe" : {
+            "id": 0,
+            "link": "https://goodle.com",
+            "description": "Description of the recipe",
+            "ingredients": {
+                "mystery meat": "quantity"
+            },
+            "instructions": [
+                "Just do it",
+                "No balls"
+            ]
+        },
+        "Roast Spatchcock Turkey" : {
+            "id": 1,
+            "link": "https://static01.nyt.com/images/2015/10/27/dining/27COOKING-ROASTTURKEY/27COOKING-ROASTTURKEY-superJumbo.jpg",
+            "description": "This spatchcock turkey recipe results in the juiciest, crispiest turkey cooked in a fraction of the time it usually takes to roast a whole turkey. If you've never tried it, spatchcocking is easier than you might think! By removing the backbone and flattening out the bird, you'll reduce cooking time and make carving a whole lot easier, too! Once you try it, you might never go back.",
+            "ingredients": {
+                "whole turkey": "1",
+                "olive oil": "1/2 cup",
+                "sage": "1 tablespoon",
+                "thyme": "1 tablespoon",
+                "rosemary": "1 tablespoon",
+                "salt": "1 tablespoon",
+                "black pepper": "1 tablespoon"
+            },
+            "instructions": [
+                "Preheat the oven to 350 degrees F (175 degrees C). Place a roasting rack on a baking sheet.",
+                "Place turkey, breast-side down, on a cutting board. Using a pair of sharp heavy-duty kitchen shears, cut along one side of the backbone. Repeat on the other side of the backbone. Remove backbone and reserve for making turkey stock for gravy.",
+                "Press firmly down onto both sides of turkey to flatten. Flip turkey breast-side up and put on the roasting rack. Tuck wing tips under turkey (behind breast). Pat skin dry and rub olive oil over entire turkey. Season with sage, thyme, rosemary, salt, and pepper.",
+                "Roast in the preheated oven for 1 hour 30 minutes, rotating the baking sheet every 30 minutes.",
+                "Increase the oven temperature to 400 degrees F (200 degrees C) and continue to roast until skin is crisp and golden, about 15 minutes more. An instant-read thermometer inserted into the thickest part of the thigh should read 165 degrees F (74 degrees C).",
+                "Remove turkey from the oven, cover loosely with a doubled sheet of aluminum foil, and allow to rest for 10 to 15 minutes before slicing."
+            ]
+        },
+        "Chicken Parmesan in Cream Sauce" : {
+            "id": 2,
+            "link": "https://www.allrecipes.com/thmb/KelTVgvAR7EF0kL0-17iYwWA06Q=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1657302240Chicken20Parmesan20in20Cream20Sauce-40827b51116a4b398465073438f31cf9.jpeg",
+            "description": "This recipe is not your usual chicken Parmesan! Instead, chicken tenders are coated in a mixture of freshly grated Parmesan cheese and Italian-seasoned panko crumbs, fried to a golden brown, and finished in a lovely cream sauce. A side of pasta would be good with this, or try mashed potatoes. A green vegetable and a salad will complete this dinner menu, nicely!",
+            "ingredients": {
+                "chicken": "2 pounds",
+                "salt": "to taste",
+                "black pepper": "to taste",
+                "all purpose flour": "1/2 cup",
+                "large eggs": "2",
+                "parmesan cheese": "1 1/2 cup",
+                "italian seasoned panko bread crumbs": "1 cup",
+                "smoked paprika": "1 teaspoon",
+                "parchment papaer": null,
+                "unsalted butter": "4 tablespoon",
+                "olive oil": "2 tablespoon",
+                "garlic": "3 cloves",
+                "dry white wine": "1/2 cup",
+                "dried italian seasoning": "1 teaspoon",
+                "red pepper flakes": "1/2 teaspoon",
+                "heavy cream": "2 cups",
+                "fresh parsley": "to taste"
+            },
+            "instructions": [
+                "Pat chicken tenders dry with paper towels and season lightly with salt and pepper.",
+                "Place flour on a shallow plate. Place beaten eggs into a shallow bowl. Combine grated Parmesan cheese, Italian-seasoned panko crumbs, and 1 teaspoon smoked paprika, and place on a second shallow plate.",
+                "Cover a dinner plate or platter with parchment paper.",
+                "Dip each lightly seasoned chicken breast tender in flour, shaking off the excess. Next, dip in beaten egg, and hold the tender over the eggs to allow excess to drip back into the bowl. Place each tender on the panko mixture. With dry fingers, scoop panko mix over the tender, patting the crumbs in. Place on the parchment-covered plate.",
+                "Repeat with remaining chicken tenders, until all tenders are breaded with flour, egg, and panko mix.",
+                "Melt 2 tablespoons butter and 2 tablespoons olive oil in a large skillet over medium heat until butter is bubbling. Add tenders, 1 at a time, being careful not to crowd the skillet. You may need to cook chicken in 2 batches. Cook until breading is browned and chicken is no longer pink in the center and the juices run clear, 3 to 4 minutes per side, being careful not to burn the breading.",
+                "Turn tenders when the crust is nicely browned and continue cooking until an instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Adjust heat down a notch or two, if the crust is getting too brown, and add a bit more oil or butter, if the skillet looks dry. Remove cooked chicken to a cooling rack.",
+                "Add garlic to the skillet, and stir until garlic is fragrant, 30 to 45 seconds. Deglaze skillet with white wine, stirring up all the browned bits from the bottom of the skillet. Season Italian herb seasoning blend and red pepper flakes.",
+                "Stir in cream and heat over medium high. Bring sauce to a boil, stirring frequently, and adjust flavor with salt and pepper, if needed. Allow sauce to bubble until desired consistency is achieved, 3 to 4 minutes.",
+                "Return cooked chicken tenders to the skillet and warm in the sauce, about 1 minute.",
+                "Garnish with fresh parsley."
+            ]
+        },
+        "Spinach Artichoke Dip with Bacon" : {
+            "id": 3,
+            "link": "https://www.simplyrecipes.com/thmb/g91k1ahuvvXKz-0yOCkENn5KpCU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2018__01__2018-01-Spinach-Artichoke-Dip-5-Headnote-Extra-52e246bac2524262aae02a5ea4452ece.jpg",
+            "description": "This Spinach Artichoke Dip with crunchy smoky bacon will disappear in a flash at your next party! Make this for football parties, game nights with friends, or any gathering that needs a dip on the table.",
+            "ingredients": {
+                "bacon": "6 slices",
+                "salt": "to taste",
+                "garlic": "minced",
+                "artichoke hearts": "14 oz can",
+                "frozen spinach": "2",
+                "parmesan cheese": "10 oz",
+                "red pepper flakes": "1/4 teaspoon",
+                "cream cheese": "8 oz package",
+                "cheese blend": "8 oz",
+                "sour cream": "1/2 cup",
+                "pita chips": "to taste",
+                "tortilla chips": "to taste"
+            },
+            "instructions": [
+                "Preheat the oven to 400˚F",
+                "Place the chopped bacon in a skillet and cook over medium heat until crispy, 7 to 10 minutes. ",
+                "Transfer the bacon to a plate lined with paper towels to drain, leaving the rendered bacon fat in the skillet. Set some of the bacon aside for sprinkling over top the dip.",
+                "Add the garlic to the pan and cook until fragrant, about 30 seconds. ",
+                "Add the artichoke hearts, spinach, red pepper flakes, and salt. Cook, stirring occasionally, until artichokes are warmed through and the spinach has wilted, about 5 minutes.",
+                "In a medium bowl, mix the cream cheese, shredded Italian cheese blend, sour cream, reserved bacon, and spinach-artichoke mixture until thoroughly combined.",
+                "Transfer the mixture to a 1- to 2-quart baking dish and bake until bubbling around the edges, about 20 minutes. Let cool slightly, then sprinkle with reserved bacon and serve with pita chips.",
+                "This dip is best eaten right away while hot. If it cools a bit and starts to firm up, microwave it for a minute or two to melt the cheese again."
+            ]
+        },
+        "Potato Dinner Rolls" : {
+            "id": 4,
+            "link": "https://www.simplyrecipes.com/thmb/mzQFHAgxLzV2WBGx9HWKBIcGJtg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2016__10__2016-11-04-SweetPotatoRolls-7-2c5f620d74f84d82a9ad924d17b51de1.jpg",
+            "description": "Potato rolls! So soft and fluffy. These are THE BEST dinner rolls ever. Perfect for Thanksgiving dinner or for sandwich sliders.",
+            "ingredients": {
+                "water": "1/2 cup",
+                "instant yeast": "2 1/4 teaspoon (1 packet)",
+                "sugar": "1 teaspoon plus 1/3 cup, divided",
+                "mashed potatoes": "1 cup",
+                "milk": "1/4 cup",
+                "salted butter": "6 tablespoons + 1/4 cup",
+                "eggs": "2 large",
+                "rosemary": "2 1/2 teaspoon",
+                "salt": "1 1/2 teaspoon",
+                "flour": "4 1/2 - 5 cups",
+                "honey": "2 tablespoons"
+            },
+            "instructions": [
+                "In the bowl of a stand mixer, combine the water, the yeast, and 1 teaspoon of the sugar. ",
+                "Set aside for about 5 minutes, or until the mixture looks bubbly. If the mixture doesn't start to bubble, then your yeast has likely expired and it's best to start over with new yeast.",
+                "Add the remaining sugar, mashed potatoes, milk, butter, eggs, rosemary, and salt to the bowl with the yeast mixture and stir with a spatula until smooth. Add 4 1/2 cups of the flour and mix until you form a shaggy dough.",
+                "With a dough hook attachment (or on the counter, if kneading by hand) knead on medium-low for 5 to 7 minutes until the dough is smooth, forms a ball around the dough hook, and pulls away from the sides of the bowl (it's fine if the dough sticks to the bottom of the bowl).",
+                "If the dough is still sticking to the sides after few minutes of kneading, add in a little more flour 2 tablespoons at a time.",
+                "Place the dough in a lightly greased bowl, cover with plastic wrap, and place somewhere warm for about 1 hour, or until the dough doubles in size.",
+                "Line a 13x9-inch baking pan with parchment paper and lightly grease. Turn the dough the out onto lightly floured surface and cut into 16 to 20 equal pieces. Roll the dough into small balls, and place seam side down in the baking dish.",
+                "Cover and let the rolls rise until puffed and nearly doubled in size, about 1 hour and about 15 minutes before the rolls are ready, heat the oven to 350F.",
+                "Bake for the rolls for 20 to 25 minutes or until the rolls are golden brown on top and register 200F on the inside when tested with an instant-read thermometer.",
+                "In a small dish, mix together 1/4 cup room temperature butter and 2 tablespoons honey until smooth. Brush tops of baked rolls with mixture, then sprinkle with salt. Allow to cool slightly before serving."
+            ]
+        },
+        "Lemon Pepper Chicken Breasts" : {
+            "id": 5,
+            "link": "https://www.simplyrecipes.com/thmb/PCBwn3gYclFLRu2s6psYR9qAazw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Lemon-Pepper-Chicken-LEAD-1-2ad0b52ee31a427fb2c635c350f36787.jpg",
+            "description": "Weeknight dinner is solved with these easy-to-make pan-fried chicken breasts smothered in a lemon pepper sauce. Serve this lemon pepper chicken breast recipe with rice or mashed potatoes.",
+            "ingredients": {
+                "chicken": "2 large chicken breasts",
+                "lemon pepper seasoning": "1 1/2 tablespoon",
+                "salt": "1 1/2 teaspoon",
+                "flour": "3/4 cup all purpose",
+                "vegetable oil": "1 1/2 tablespoon",
+                "unsalted butter": "4 tablespoons",
+                "garlic": "2 cloves",
+                "chicken stock": "1/2 cup",
+                "lemon juice": "1/3 cup",
+                "fresh parsley": "1/4 cup, chopped",
+                "lemon slices": "garnish, optional"
+            },
+            "instructions": [
+                "Cut the chicken breast into cutlets. Place the palm of your hand flat against the top of a whole chicken breast to keep it from sliding around. With the broad side of your knife horizontal to the cutting board, cut through the chicken breast to create 2 thinner halves (cutlets).",
+                "In a small bowl, combine 4 teaspoons of the lemon pepper seasoning and the salt. Add the flour to a separate shallow dish. ",
+                "Season both sides of each of the chicken breasts with the spice mixture. Dredge both sides of the seasoned chicken in the flour, shaking off any excess flour, then lay the dredged chicken on a wire rack or platter while you heat the pan.",
+                "In a large skillet, heat the oil and 2 tablespoons of the butter over medium heat. Once the butter is melted, swirl the pan a little to combine the two fats. Once the oil in the skillet begins to shimmer, lay your chicken cutlets in a single layer in the pan. You may need to fry in batches.",
+                "Fry the chicken for 3 minutes without moving. Use a pair of tongs to flip the chicken and fry until they’re cooked through, an additional 2 1/2 to 3 minutes",
+                "Use your tongs to remove the chicken from the skillet to a platter",
+                "Make the lemon pepper sauce:  ",
+                "Discard the darkened fat from the skillet. Return the skillet to the stove and add the remaining butter. ",
+                "Melt the butter in the pan over medium heat. Once the butter has melted, add the garlic. Sauté the garlic in the butter until fragrant, 30 to 45 seconds.",
+                "Add the chicken stock and lemon juice and deglaze the pan, scraping up any browned bits from the bottom of the pan. Allow the liquid in the skillet to come to a boil and continue to boil until very slightly thickened, about 1 minute. Season the sauce with the remaining 1/2 teaspoon of lemon pepper seasoning and salt to taste.",
+                "Coat the Chicken: ",
+                "Once the sauce has reduced slightly, return the chicken breasts to the pan. Turn them over to coat both sides in the sauce and turn the stove off. Allow the residual heat from the pan to warm the chicken up before sprinkling the chopped parsley over top",
+                "Garnish with lemon slices and serve."
+            ]
+        },
+        "Creamy Miso Mushroom Pasta" : {
+            "id": 6,
+            "link": "https://www.simplyrecipes.com/thmb/OOsYIipU3bU-aINmrkbP7U7jiZw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Miso-Mushroom-Pasta-LEAD-05-0d550b2344374fa1879acced1fd14e6b.jpg",
+            "description": "A creamy miso sauce and mushrooms give this easy, super simple pasta tons of umami flavor. Creamy miso mushroom pasta is a weeknight win—ready in 30 minutes.",
+            "ingredients": {
+                "pasta": "1 lb",
+                "salt": "to taste for pasta water",
+                "olive oil": "1 tablespoon",
+                "cremini mushroom": "6 oz",
+                "unsalted butter": "4 tablespoons",
+                "garlic": "2 cloves",
+                "parmesan cheese": "1/3 cup",
+                "white miso paste": "2 tablespoon",
+                "parsley": "optional for garnish",
+                "sage": "optional for garnish",
+                "thyme": "optional for garnish"
+            },
+            "instructions": [
+                "Fill a large pot with water and season with a generous amount of salt. Bring it to a boil over high heat. ",
+                "Add the pasta and cook according to the package instructions. Reserve a cup of pasta water, then drain the pasta in a colander. Set the colander over the pasta pot so it stays warm.",
+                "Meanwhile, heat the olive oil in a large skillet over medium heat. Add the mushrooms and sauté until golden, 5 to 8 minutes. Add the mushrooms to a bowl or directly to the empty pasta pot.",
+                "Make the sauce:",
+                "Carefully rinse and dry off the skillet that you used to cook the mushrooms, then put it back on the stove over medium heat. Add the butter to the skillet and let it melt. Add the garlic and sauté until fragrant, about 2 minutes. ",
+                "Add the Parmesan, miso, and 1/2 cup reserved pasta water and stir until the cheese is melted and all ingredients are evenly combined, 2 to 4 minutes.",
+                "Assemble the pasta: ",
+                "Add the sauce to the pot with the pasta and mushrooms and toss until all of the pasta is coated in sauce. Add more pasta water, if needed, to thin out the sauce. Sprinkle with fresh herbs, if using",
+                "Serve fresh. Store leftovers in a covered container in the fridge for up to 3 days"
+            ]
+        },
+        "Shrimp and Mushroom Stir Fry" : {
+            "id": 7,
+            "link": "https://www.simplyrecipes.com/thmb/cU6X3PzUcZFyXQ-R3cd5k-1qicE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Shrimp-Mushroom-Stir-Fry-LEAD-07-bb2e3a9f291143969f94d0b0ae62ed66.jpg",
+            "description": "You’ll want to keep this quick shrimp and mushroom stir fry recipe in your back pocket for easy, wholesome dinners. It comes together in just a few minutes and is a great weeknight meal",
+            "ingredients": {
+                "cremini mushroom": "12 oz",
+                "shrimp": "1 lb, large",
+                "olive oil": "2 tablespoon",
+                "garlic": "3 cloves",
+                "scallion": "3, chopped",
+                "chicken stock": "1 1/2 cup",
+                "soy sauce": "1/4 cup",
+                "cornstarch": "2 tablespoon",
+                "white rice": "up to you",
+                "sesame seeds": "to garnish, optional"
+            },
+            "instructions": [
+                "Make the stir fry sauce:",
+                "Whisk together the chicken stock, garlic, soy sauce, and cornstarch in a small bowl. Set aside.",
+                "In a large skillet or wok over medium heat, add olive oil and mushrooms. Cook until the mushrooms soften and turn brown in spots around the edges, about 8 minutes.",
+                "Add shrimp. Once the mushrooms are cooked to your liking, add the shrimp to the skillet. If the skillet is very dry, add a fresh drizzle of oil to it to ensure the shrimp doesn’t stick.",
+                "Cook, stirring constantly, until shrimp are cooked through and no longer translucent, 2-3 minutes. ",
+                "Once shrimp are cooked, add all the stir fry sauce to the skillet and stir to combine. The finished sauce should just coat the stir fry ingredients, almost like a thin gravy.",
+                " If the sauce thickens too much, stir in extra water by the tablespoon. If the sauce is too thin, let it simmer for 1-2 minutes and it will thicken. Lastly, stir in the chopped scallions. ",
+                "Serve the shrimp stir fry spooned over cooked white rice garnished with sesame seeds."
+            ]
+        },
+        "Air Fryer Salmon" : {
+            "id": 8,
+            "link": "https://www.simplyrecipes.com/thmb/4-MCG4bnyKPL2CpN37nJqI5Wlmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Air-Fryer-Salmon-LEAD-05-40ff3708d04340bd8bbe7d9f6d997ebb.jpg",
+            "description": "You’ll want to keep this quick shrimp and mushroom stir fry recipe in your back pocket for easy, wholesome dinners. It comes together in just a few minutes and is a great weeknight meal",
+            "ingredients": {
+                "salmon": "4-5 oz, skin on",
+                "lemon pepper seasoning": "1 teaspoon",
+                "olive oil": "1 tablespoon",
+                "salt": "1/2 teaspoon",
+                "black pepper": "1/4 teaspoon",
+                "lemon wedges": "to garnish, optional"
+            },
+            "instructions": [
+                "Lightly spray the inside of the air fryer basket with nonstick cooking spray.",
+                "Place the salmon on a plate skin side down. Drizzle the tops (the skinless sides) with olive oil and season with lemon pepper, salt, and black pepper.",
+                "Place the salmon in the air fryer basket. Make sure they aren’t touching. I like to place mine skin-side down, but skin-side up is also an option. If you’d like, place a few lemon slices under each piece of salmon.",
+                "Air fry the salmon for about 8 minutes at 350˚F. The salmon is done when it reaches an internal temperature of 135°F to 140˚F when measured with an instant read thermometer. You can cook it longer if you want a slightly more well-done piece.",
+                "Serve the salmon with fresh lemon wedges for squeezing on top. "
+            ]
+        },
+        "Fresh Corn Pasta" : {
+            "id": 9,
+            "link": "https://www.simplyrecipes.com/thmb/q1I48BoEKMmDdheXOPugmbECj0c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Creamy-Corn-Pasta_LEAD-4-78089998bd6f455d9f5d05171fd1ee48.jpg",
+            "description": "Sweet corn is front and center in this quick and easy recipe. Made with fresh corn, cream, garlic, and Parmesan, this simple creamy corn pasta is a weeknight win.",
+            "ingredients": {
+                "pasta": "8 oz",
+                "corn": "3 ears",
+                "olive oil": "2 tablespoon",
+                "shallot": "1, chopped",
+                "garlic": "2 cloves",
+                "salt": "3/4 tsp",
+                "crushed red pepper flakes": "1/4 tsp",
+                "dry white wine": "1/4 cup",
+                "heavy cream": "1/2 cup",
+                "parmesan cheese": "1/2 cup grated",
+                "fresh parsley": "1/4 cup",
+                "lemon juice": "1 tbsp"
+            },
+            "instructions": [
+                "Bring a large pot of water to a boil over high heat and season generously with salt. Add the pasta, stir, and cook until al dente according to the package directions. Reserve a cup of pasta water just before draining.",
+                "Meanwhile, remove the corn form the cob: ",
+                "Shuck the corn, discarding the husks and removing as much of the silks as possible.",
+                "Set a large, shallow bowl in the sink. Hold a shucked ear of corn by the stalk end and position it upright with the tapered end steadied against the bottom of the bowl. Use a large knife to shave the corn kernels from the cob, working in long strips down towards the bottom of the bowl. ",
+                "Once all the kernels are removed, run the back of the knife down the entire ear using the same motion. This will remove any creamy juice left behind on the cob which gives the pasta lots of flavor. Repeat with the remaining ears of corn.",
+                "Make the sauce: ",
+                "In a large skillet, heat the olive oil over medium heat. Once hot, add the shallot and sauté until translucent, 1 to 2 minutes. Add the garlic and cook until fragrant, about 30 seconds.",
+                "Add the corn and their juices, 1/2 teaspoon salt, and the red pepper flakes. Stir. Add the white wine and simmer until most of it has cooked off, about 2 minutes.",
+                "Add the cream and bring to a low simmer, reducing the heat as needed. Cook until thickened, about 3 minutes.",
+                "Finish the sauce and toss with the pasta: ",
+                "Add the Parmesan to the sauce a little at a time, stirring each time to ensure it melts. Add the parsley, reserving a small handful for garnish. Add the lemon juice and stir to combine.",
+                "Add the drained pasta and 1/3 cup of reserved pasta water to the sauce. Increase the heat to medium and toss continuously until all of the pasta is coated and the sauce is clinging to the pasta. If needed, add more pasta water, a tablespoon or so at a time, and keep tossing until you have a creamy sauce.",
+                "Garnish and serve."
+            ]
+        },
+        "Beef Bulgogi" : {
+            "id": 10,
+            "link": "https://www.simplyrecipes.com/thmb/Vv2ctLOkddIknx0enOQbINB7r-o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Bulgogi-SEO-daf49e25a78d41ccbf66aba56b50520f.jpg",
+            "description": "There’s a reason why bulgogi is one of Korea’s most popular culinary export—it’s the perfect balance of beefy, savory, and sweet. Cook it on a grill pan for the best char.",
+            "ingredients": {
+                "soy sauce": "1/4 cup",
+                "asian pear": "1/2, peeled and grated",
+                "sugar": "2 tbsp",
+                "garlic": "3 cloves",
+                "sesame oil": "2 tbsp",
+                "black pepper": "1/4 tsp",
+                "ribeye": "1 1/2 lbs",
+                "canola oil": "1 tbsp",
+                "scallion": "1/2 cup",
+                "sesame seeds": "2 tbsp"
+            },
+            "instructions": [
+                "In a medium bowl, add the soy sauce, grated pear, mirin, sugar, garlic, sesame oil, and black pepper. Stir until the sugar dissolves.",
+                "Add the beef and toss until it is evenly coated with the marinade. Cover it with plastic wrap and refrigerate for at least 30 minutes or overnight. At this point, you can put the marinated beef in a zip top bag and freeze it for later.",
+                "Heat the canola oil in a large cast iron grill pan over medium-high heat. Make sure the pan is hot before you add the bulgogi. Add the bulgogi in a single layer.",
+                "You may need to cook it in batches. The meat should not overlap so that it chars nicely without steaming and releasing liquid. Cook until lightly charred and cooked through, 2 to 3 minutes on each side.",
+                "Transfer the bulgogi onto a serving platter or serve it straight from the pan. Sprinkle the green onions and sesame seeds on top. Serve it while hot with cooked rice on the side."
+            ]
+        },
+        "Creamy Chicken Florentine" : {
+            "id": 11,
+            "link": "https://www.simplyrecipes.com/thmb/xjdjCt_gduKABBKMrO_-iIqNNOc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Temp-filename_-10-ac24af938a894208adecfebd2353d04b.jpg",
+            "description": "This quick weeknight dinner is a complete meal in one skillet—chicken, spinach, mushrooms, and the creamiest, tastiest sauce.",
+            "ingredients": {
+                "flour": "2 tbsp",
+                "salt": "1/2 tsp",
+                "black pepper": "1/4 tsp",
+                "chicken": "4 cutlets",
+                "olive oil": "3 tbsp",
+                "shallot": "2",
+                "cremini mushroom": "2 oz",
+                "garlic": "3 cloves",
+                "dry white wine": "1/4 cup",
+                "heavy cream": "1/2 cup",
+                "parmesan cheese": "1/2 cup",
+                "spinach": "12 oz"
+            },
+            "instructions": [
+                "Dredge the chicken: ",
+                "In a shallow bowl, add the flour, 1/4 teaspoon salt and 1/8 teaspoon black pepper. Mix well with a fork or a spoon.",
+                "Lay a chicken cutlet on top of the flour. Sprinkle some of the flour mixture on top and press with your hands to coat. Flip the chicken to evenly coat both sides, sprinkling flour over any bare spots and shaking off the excess. Transfer it onto a large plate and repeat with the remaining cutlets. Discard any leftover flour.",
+                " If the sauce thickens too much, stir in extra water by the tablespoon. If the sauce is too thin, let it simmer for 1-2 minutes and it will thicken. Lastly, stir in the chopped scallions. ",
+                "Cook the chicken:",
+                "Place a large skillet over medium-high heat and add 2 tablespoons olive oil. Tilt the skillet to evenly coat it with oil. The oil should shimmer, but not smoke. Add the dredged chicken cutlets in a single layer. Let them cook, without moving, until the bottoms are golden brown, 3 to 5 minutes.",
+                "Use tongs to flip the cutlets and cook the other side is lightly browned and the chicken is cooked through, 2 to 4 minutes. If your skillet isn’t big enough, you can cook the chicken in 2 batches.",
+                "Transfer the chicken onto a clean plate and tent it with foil. Set it aside while you make the sauce, which will be made in the same skillet.",
+                "Cook the vegetables:",
+                "Turn the heat down to medium and add the remaining 1 tablespoon olive oil. Add the shallots and sauté until they begin to turn translucent, about 1 minute.",
+                "Add the mushrooms and garlic, and season with the remaining 1/4 teaspoon salt and 1/8 teaspoon black pepper. Sauté until tender, 2 to 3 minutes.",
+                "Make the sauce:",
+                "Add the white wine and scrape the bottom of the skillet with a wooden spoon, loosening any browned bits. Bring the wine to a simmer and cook until the alcohol smell dissipates, about 1 minute.",
+                "Stir in the heavy cream. Bring it to a gentle simmer. Add the spinach in 2 or 3 batches, stirring after each addition until all the leaves are wilted and incorporated into the sauce.",
+                "Stir in the Parmesan until it is completely melted",
+                "Assemble the dish:",
+                "Nestle the chicken cutlets in the sauce and let it simmer for 2 to 3 minutes to reheat. Taste the sauce and adjust the seasoning with more salt and black pepper, if needed. Serve!"
+            ]
+        },
+        "Creamy One Pot Zucchini Pasta" : {
+            "id": 12,
+            "link": "https://www.simplyrecipes.com/thmb/eYPhZZIhg_x78vx4BUA9cF7Q0KU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Creamy-One-Pot-Pasta-with-Zucchini-LEAD-8-98d788600d4e4344a02785ad486aeba8.jpg",
+            "description": "This 30-minute creamy pasta with jammy zucchini is your answer to peak summer weeknight cooking.",
+            "ingredients": {
+                "olive oil" : "1/4 cup",
+                "zucchini": "4 or 5, coarsely grated",
+                "black pepper": "1/2 teaspoon",
+                "water": "3 1/4 cups",
+                "pasta": "1 lb",
+                "cream cheese": "6 oz, softened",
+                "lemon": "1, zested and juiced",
+                "walnuts": "1/4 cup, toasted"
+            },
+            "instructions": [
+                "Heat the oil in a large heavy-bottomed pot or Dutch oven over medium-high heat. Add the zucchini and season with 1 teaspoon salt and 1/2 teaspoon black pepper. Cook the zucchini, stirring occasionally, until it expels liquid, the liquid cooks off, and the zucchini caramelizes into a jam-like, spreadable consistency, 10 to 12 minutes. ",
+                "If you start to notice any browning at the bottom of your pot, reduce the heat to medium. Once jammy, transfer the zucchini into a medium bowl and set it aside.",
+                "In the same pot (don’t worry about wiping off any browned bits or pieces of zucchini that might be left in the pot), add 3 1/4 cups water and bring it to a boil over high heat. Season the water with the remaining 1 1/2 teaspoons salt. ",
+                "Once water is boiling, add the pasta and cream cheese, and reduce the heat to medium-high. Break up the cream cheese with the back of a wooden spoon to disperse throughout. It’s okay if the pasta isn’t completely submerged in liquid. Cook, stirring frequently until the pasta is al dente and liquid is reduced and creamy, 11 to 13 minutes. If all the moisture cooks off and the pasta is still undercooked, add a splash of water.",
+                "Add the cooked zucchini, lemon zest, and lemon juice and cook until warmed through, 2 minutes. Add a splash of water to create a thin, glossy sauce, if needed. Season to taste with salt and pepper, if needed. Divide between bowls and top with toasted walnuts. Serve.",
+                "Though it’s best enjoyed immediately, you can always refrigerate leftovers in an airtight container for up to 3 days and reheat it in the microwave or in a saucepan with a splash of water."
+            ]
+        },
+        "Shrimp Fried Rice" : {
+            "id": 14,
+            "link": "https://www.simplyrecipes.com/thmb/O3AWYSdtR5nA_L7pYL5Nf--n_L4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2008__08__shrimp-fried-rice-horiz-a-1600-1d45831476cb4e89a385b58b716bca26.jpg",
+            "description": "Classic shrimp fried rice with fresh shrimp, rice, green onions, peas, carrots, and sesame oil. Tips for making the BEST fried rice!",
+            "ingredients": {
+                "shrimp" : "8 oz",
+                "salt": "1/2 tsp",
+                "black pepper": "to taste",
+                "cornstarch": "1/2 tsp",
+                "canola oil": "3 tbsp",
+                "eggs": "3, beaten",
+                "scallion": "2",
+                "rice": "4 cups",
+                "peas": "3/4 cup",
+                "carrots": "3/4 cup",
+                "soy sauce": "1 tbsp",
+                "sesame oil": "1 tsp"
+            },
+            "instructions": [
+                "In a medium bowl, sprinkle the shrimp with salt, pepper, and cornstarch, and toss to coat. Set aside to sit for ten minutes at room temperature.",
+                "Heat a large sauté pan or wok (a seasoned cast iron pan or hard anodized aluminum works well, they're relatively stick free and can take the heat) on high heat.",
+                "When the pan is very hot (a drop of water instantly sizzles when it hits the pan), swirl in one tablespoon of the cooking oil to coat the pan.",
+                "Add the shrimp to the hot pan, spreading them out quickly in a single layer. Let them fry in the pan without moving them, for 30 seconds.",
+                "Flip the shrimp over and let them fry on the other side for another 30 seconds or until they are mostly cooked through. (Do not cook them all the way!)",
+                "Use a slotted spoon to scoop the shrimp out of the pan to a bowl.",
+                "Return the pan to the burner and lower the heat to medium. Add a little more oil if the pan needs it. Add the beaten eggs and stir them quickly to scramble them while they cook.",
+                "When the eggs are not quite cooked through, still a bit runny, transfer them from the pan to the bowl with the cooked shrimp.",
+                "Clean out the pan or wok with paper towels and return it to the burner. Heat the pan on high and when it is hot, swirl in the remaining tablespoon or two of oil. When the oil is shimmering hot (almost smoking), add the green onions and sauté for 15 seconds.",
+                "Then add the leftover cooked rice to the pan and stir with the green onions to mix well. Spread the rice onion mixture over the surface of the pan and let it fry, without moving it. You should hear the rice sizzle. Cook for about 1 to 2 minutes.",
+                "Use a spatula to turn over the rice, and spread it over the pan again. Let cook for a minute longer.",
+                "Sprinkle soy sauce on the rice and stir to combine. Add the carrots, peas, shrimp, eggs, and sesame oil, stirring to combine well. Heat everything until sizzling hot. Add more soy sauce to taste."
+            ]
+        },
+        "Sesame Peanut Noodles" : {
+            "id": 15,
+            "link": "https://www.simplyrecipes.com/thmb/zFWyOM6JruuthX6w2EXpQgQL4vE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Sesame-Peanut-Noodles-LEAD-02-3b0190bdb28b4eec80c4c93992f4c6d7.jpg",
+            "description": "Make a big batch of these nutty, sweet, and soy saucy noodles and enjoy them cold for a quick lunch over a few days. It’s the best make-ahead recipe for your back pocket!",
+            "ingredients": {
+                "soba" : "8 oz",
+                "sesame oil": "2 tbsp",
+                "peanut butter": "3 tbsp",
+                "soy sauce": "1/2 cup",
+                "honey": "1 1/2 tbsp",
+                "rice vinegar": "1 1/2 tbsp",
+                "garlic": "1, grated",
+                "sesame seeds": "1 tbsp, for garnish",
+                "scallion": "1, sliced for garnish"
+            },
+            "instructions": [
+                "Bring a large pot of water to a boil over high heat. Add the noodles and cook following package instructions. Drain into a colander set in the sink, then rinse with cold running water until cool to the touch. Drain well",
+                "Transfer into a medium bowl and toss them with 1 tablespoon sesame oil so that they don’t stick to each other. Cover with plastic wrap and place them in the fridge to keep cool while you prepare the sauce.",
+                "In a small bowl, add the remaining 1 tablespoon sesame oil, peanut butter, soy sauce, honey, rice vinegar, and garlic. Whisk with a fork until combined and smooth.",
+                "Scrape the peanut sesame sauce on the cold noodles and toss to combine. Garnish with sesame seeds and green onions, if desired."
+            ]
+        },
+        "BLT Wraps" : {
+            "id": 16,
+            "link": "https://www.simplyrecipes.com/thmb/CzSFSzBEOsUXb8piRHCTCO-EFKc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-BLT-Wraps-LEAD-02-75aa2ed533104c52bdb7407575cb7bc5.jpg",
+            "description": "Nothing says lunch like this BLT Wrap! Stuffed with crispy bacon, juicy tomatoes, and a tangy chive sauce, it's the perfect lunch for summer.",
+            "ingredients": {
+                "bacon" : "1 lb",
+                "butter lettuce": "1 head",
+                "tomatoes": "3",
+                "tortilla": "6",
+                "mayo": "1/2 cup",
+                "fresh chives": "2 tbsp",
+                "lemon juice": "1 tbsp",
+                "harlic powder": "1/2 tbsp",
+                "salt": "to taste"
+            },
+            "instructions": [
+                "Preheat oven to 375˚F",
+                "Arrange the bacon on a few baking sheets with foil or elevate them on a wire rack, making sure the bacon is not overlapping",
+                "Bake the bacon for 15-20 minutes until it’s browned and crispy. Then remove the bacon from the baking sheet and let it drain on a few paper towels",
+                "In a medium bowl combine the mayo, chives, lemon juice, garlic powder, and salt. Set aside.",
+                "Spread about 2 tablespoons of the chive mayo onto your wrap. Then layer with butter lettuce, tomato slices, followed by 3-4 strips of crispy bacon. ",
+                "Fold the edges over on the wrap and roll it into a tight cylinder. Cut the wrap in half for easier eating.",
+                "Continue until all wraps are assembled."
+            ]
+        },
+        "Korean Steamed Eggs" : {
+            "id": 17,
+            "link": "https://www.simplyrecipes.com/thmb/WLb7NAZU6HmF7JrKSyGkYzJUIxc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SimplyRecipes_GyeranJjim_LEAD-3-b34f70d3e3ba4bacbc15381c76e1bfab.jpg",
+            "description": "Gyeran jjim cooked in the microwave is the fastest and simplest way to get light, fluffy, and custardy steamed eggs. This 5-ingredient Korean dish is an easy meal or side any time of day!",
+            "ingredients": {
+                "eggs" : "6",
+                "salt": "1 tsp",
+                "dashi powder": "3/4 tsp",
+                "imitation crab": "3",
+                "cups": "1 1/2 cup",
+                "scallion": "1"
+            },
+            "instructions": [
+                "Crack the eggs into a 35-ounce (4 1/2- to 5-cup capacity) microwave-safe bowl. Vigorously whisk the eggs with a fork until smooth and combined well. Add the salt and dashi powder, and whisk again to combine. Stir in the crab sticks.",
+                "Bring 1 1/2 cups water to a boil in an electric kettle or in a small saucepan over high heat. Carefully pour the boiling water over the egg mixture and quickly stir together with the fork. The egg mixture will look thin—don’t worry if the boiling water slightly curdles the eggs, but try to work quickly for best results. ",
+                "Place the bowl on a microwave-safe plate to make it easier to get the dish in and out of the microwave and to catch any potential spills. ",
+                "Microwave the eggs, uncovered, on high for 2 minutes, until the edges begin to set. Remove the bowl from the microwave and gently scrape around the sides and bottom with a fork, breaking up large pieces of cooked eggs and mixing them into the uncooked eggs.",
+                "Microwave the eggs again for 1 minute. Then gently scrape around the sides and bottom with a fork.",
+                "Sprinkle the scallions on top and microwave the eggs again for 45 seconds to 1 minute, until the eggs are just set and soft when poked with a fork. The total cook time depends on the power level of your microwave. The gyeran jjim should look like custardy scrambled eggs, soft but set without jiggling—something you can’t wait to scoop into! "
+            ]
+        },
+        "Sesame Soba Noodles" : {
+            "id": 18,
+            "link": "https://www.simplyrecipes.com/thmb/VAMwVmx0Vku-BvIa80in-qgqQng=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SimplyRecipes_SesameSobaNoodles_SEO-8006a44b813d4513998c9df2f98d5588.jpg",
+            "description": "You’ll want these tasty sesame soba noodles in your lunchbox. The best part is that this soba noodle recipe takes less than 15 minutes to make.",
+            "ingredients": {
+                "soba" : "9 oz",
+                "sesame oil": "1/4 cup",
+                "soy sauce": "3 tbsp",
+                "sugar": "2 tbsp",
+                "lemon juice": "2 tbsp",
+                "sesame seeds": "2 tbsp",
+                "scallion": "2, chopped",
+                "garlic": "1 clove",
+                "black pepper": "1/4 tsp"
+            },
+            "instructions": [
+                "Fill a large pot with about 3 quarts of water and set it over high heat. You don’t need to salt the water. Cover the pot with a lid if you’re hangry and need it to boil faster. ",
+                "When it comes up to a boil, add the soba noodles and cook for 4 minutes, stirring frequently with a large fork so that they don’t stick to each other or to the bottom of the pot. ",
+                "Drain the noodles into a colander set in the sink and immediately rinse it with cold running water until the noodles feel cool to the touch. Leave the colander in the sink to give the noodles a chance to drain well.",
+                "In a large bowl, add the sesame oil, soy sauce, maple syrup, lemon juice, sesame seeds, green onions, garlic, and black pepper. Whisk well with a fork until combined.",
+                "Tap the colander in the sink forcefully a few times to get rid of as much water as possible. Tip the noodles on top of the dressing and use the fork to toss until evenly coated. Serve at room temperature or chilled after you pop it into the fridge until ready to serve. "
+            ]
+        },
+        "Whole Grilled Eggplant" : {
+            "id": 19,
+            "link": "https://www.simplyrecipes.com/thmb/MosgjjCn-wOuCCyeXK3BkgI1Jgs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Whole-Grilled-Eggplant-LEAD-08-86f0abdfb7da4107801678725d83de42.jpg",
+            "description": "This whole grilled eggplant is the perfect for lazy summers! A smoky and lusciously smooth interior is revealed after a 30-minute cook over a hot grill. Serve it with your favorite grilled meats or as a vegetarian main!",
+            "ingredients": {
+                "eggplant": "1",
+                "olive oil": "2 tbsp",
+                "lemon": "1, halved",
+                "salt": "to taste",
+                "black pepper": "to taste",
+                "parsley": "to taste"
+            },
+            "instructions": [
+               "Adjust the grill as needed during cook time in order to maintain a temperature between 450°F to 500°F.",
+               "With a sharp knife, poke 10 shallow slits spread out around the surface of the eggplant, this will help steam escape, so the eggplant doesn’t abruptly burst open as it cooks. ",
+               "Place the eggplant on the preheated grill using tongs and close the lid. The grill will be smoky, that’s okay, as there is no oil (or fat) to cause a flare up. ",
+               "After 20 minutes, check on the eggplant. If it looks deflated or sunken in on itself and the grilled side is softened to the touch, it’s ready to be flipped. If not, wait another 5 minutes, then use a pair of tongs to flip it to finish cooking until it’s softened all over and mushy between the tongs, 5 minutes.",
+               "Once the eggplant is completely cooked through, use the tongs to gently remove it from the grill and onto a cutting board. Let it cool for 2 minutes.",
+               "Slice it in half lengthwise and transfer the halves to a serving plate. Loosely drag a fork through flesh to loosen the eggplant so the eggplant flesh is distributed into the nooks and crannies.",
+               "Lightly drizzle the eggplant with extra virgin olive oil and squeeze a lemon half over the top. Season with flakey sea salt and freshly cracked black pepper. Garnish with parsley."
+            ]
+        },
+        "Instant Pot Mashed Sweet Potatoes" : {
+            "id": 20,
+            "link": "https://www.simplyrecipes.com/thmb/hIQPDJRIguug3kJWhidZ73_ACyQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Instant-Pot-Mashed-Sweet-Potatoes-LEAD-4-2f1142e2587d4885a6108fce5cfba42a.jpg",
+            "description": "For a simply delicious side dish fit for anything from Thanksgiving to a weeknight, make Instant Pot mashed sweet potatoes. Flavored simply with brown sugar and butter, they’re easy to customize.",
+            "ingredients": {
+                "water": "1 cup",
+                "salt": "1 3/4 tsp",
+                "lemon": "1/4 squeezed",
+                "sweet potato": "4 lbs",
+                "unsalted butter": "2 tbsp",
+                "brown sugar": "3 tbsp"
+            },
+            "instructions": [
+               "Add the cold water, 1 teaspoon kosher salt, and lemon juice to the inner pot of the Instant Pot.",
+               "Place the metal trivet (or a metal steamer basket) in the bottom with the handles unfolded and set against the sides. Add the cubed sweet potatoes on top.",
+               "Place the lid on the Instant Pot and lock it in place. Ensure the valve is set to the sealed position. ",
+               "Pressure cook on high pressure for 4 minutes. The Instant Pot will take about 10 minutes to get up to pressure before the cook time begins.",
+               "Once the cooking time is finished, carefully vent using a quick release. It may take up to 1 minute for the pressure to release. ",
+               "Open the lid and use a fork to prick the potatoes and check for doneness. Check at least 2 potatoes on top and 2 potatoes in the center of the pot to confirm that all of the potatoes are sufficiently cooked. ",
+               "They will be bright orange and soft enough to be mashed with a fork. If the potatoes are not completely cooked, seal the lid, close the vent, and pressure cook for 1 minute before testing again",
+               "Once the sweet potatoes are cooked, use oven mitts to remove the inner pot. Remove the trivet and drain the potatoes. Discard the water in the pot.",
+               "Return the drained potatoes to the empty inner pot of the Instant Pot and add the unsalted butter, 3/4 teaspoon kosher salt (or to taste), and brown sugar. Mash with a potato masher until smooth. Serve warm."
+            ]
+        },
+        "Spinach Dip" : {
+            "id": 21,
+            "link": "https://www.simplyrecipes.com/thmb/IQ377q0rX5fYHWKl3FCHVQBQsHU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Spinach-Dip-LEAD-03-9cf2f17233af40a08ea1c6f1f8a288ce.jpg",
+            "description": "Classic spinach dip takes a detour to the Mediterranean in this lighter version made with creamy feta, yogurt, sour cream, and thawed frozen spinach. It’s a quick and easy dip to make for an impromptu appetizer.",
+            "ingredients": {
+                "frozen spinach": "10-12 oz",
+                "creamy feta": "8 oz",
+                "whole milk greek yogurt": "1 cup",
+                "sour cream": "3/4 cup",
+                "fresh parsley": "2 tbsp",
+                "yellow onion": "1 tbsp, grated",
+                "lemon zest": "2 tsp",
+                "lemon juice": "1 tbsp",
+                "ground coriander": "1/4 tsp",
+                "cayenne pepper": "1/8 tsp",
+                "olive oil": "1 tablespoon",
+                "salt": "to taste"
+            },
+            "instructions": [
+                "Place the thawed spinach in the center of a dishtowel. Gather the edges of the towel together. Hold the bundle over the sink and twist and squeeze out as much water as possible. Set aside.",
+                "In a food processor, combine the feta, yogurt, sour cream, parsley, grated onion, lemon zest, lemon juice, coriander, and cayenne pepper. Blend until the mixture is very smooth, 1 to 2 minutes. With the motor running, drizzle in the olive oil and blend until combined, scraping down the sides as needed.",
+                "Transfer the mixture to a bowl and fold in the chopped spinach. Refrigerate until ready to use. ",
+                "To serve, taste and add salt, more pepper, or lemon juice if you like. Scrape into a serving bowl and sprinkle with the Aleppo pepper (if using). Serve with crudites, crackers, or pita bread for dipping."
+            ]
+        },
+        "Elote" : {
+            "id": 21,
+            "link": "https://www.simplyrecipes.com/thmb/ed_0ntEvYI5lnGtifdKES3FR4wA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2016__07__2016-07-29-Street-Corn-12-b0a5fb59aeba49c98a3ae2656c6e8902.jpg",
+            "description": "Top char-grilled corn on the cob with a tangy, creamy sauce, sprinkle with crumbled cheese and dive in. Make this for your next backyard cook-out!",
+            "ingredients": {
+                "corn": "6-8",
+                "crema": "1/2 cup",
+                "mayonnnaise": "1/2 cup",
+                "cilantro": "1/2 cup, chopped",
+                "garlic": "1, minced",
+                "chipotle pepper": "1/4 tsp",
+                "lime zest": "2 tsp",
+                "lime juice": "2 tbsp",
+                "cotija cheese": "1/2 cup",
+                "lime wedges": "for garnish"
+            },
+            "instructions": [
+                "Heat a gas or charcoal grill to 400F",
+                "In a bowl, whisk together the crema, mayonnaise, cilantro, garlic, chipotle pepper, lime zest and lime juice. Taste and season the mixture with salt if needed. (Crema has a little salt already, so add extra judiciously.) Set aside.",
+                "Place the husked corn directly onto grill grates. Grill the corn for about 3 minutes, undisturbed, or until kernels begin to turn golden brown and look charred. Turn over and repeat. When all sides are browned, remove from the grill onto a plate.",
+                "Using a brush or a spoon, coat each ear of corn with the crema mixture. Sprinkle with crumbled cojita cheese. Sprinkle with additional chipotle pepper, if desired. Serve immediately with extra lime wedges."
+            ]
+        },
+        "Burnt Cheese Tacos" : {
+            "id": 22,
+            "link": "https://www.simplyrecipes.com/thmb/F4xQesppCTHy4mKyHBPD1YtFTso=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Burnt-Cheese-Tacos-LEAD-04-b8b00c3dcb9641bc84da3e61dd255f72.jpg",
+            "description": "The cheese around these tacos is cooked until almost burnt—they are crispy, deep golden brown, and mind-blowingly delicious.  ",
+            "ingredients": {
+                "mayonnnaise": "1/2 cup",
+                "canned chipotle": "2 tbsp",
+                "lime juice": "1 tbsp",
+                "mexican cheese": "3 1/2 cup",
+                "tortilla": "6"
+            },
+            "instructions": [
+                "In a small bowl, whisk together the mayo, chipotle, lime juice, and salt. Taste and season with more salt or stir in more chipotle in adobo sauce for extra heat. Set aside.",
+                "Heat a large, nonstick skillet over medium heat and lightly coat with cooking spray. Once hot, sprinkle in 1/3 cup cheese in a 6-inch circle. It’s okay if there are gaps in the cheese, as long as the circle is large enough. ",
+                "Lay the tortilla on top of the cheese circle. There should be some pieces of cheese still visible around the edges of the tortilla. Then, sprinkle 1/4 cup cheese on top of half of the tortilla. Cook until the cheese in contact with the skillet starts to turn golden brown around the edges, about 2 minutes.",
+                "Use a rubber spatula to gently lift the crispy cheese off the skillet and fold the bare half of the tortilla onto the cheesy half, and press to adhere. ",
+                "Cook until the center is completely melted and the crispy cheese is a deep golden brown on both sides, 2 minutes. Make the remaining tacos following these steps.",
+                "Serve immediately with chipotle sauce for dipping. "
+            ]
+        },
+        "Grilled Gochujang Chicken Thighs" : {
+            "id": 23,
+            "link": "https://www.simplyrecipes.com/thmb/TjXoE6CTXl5YIsvchxiZahE65kw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Grilled-Gochujang-Chicken-LEAD-01-3e34c32126404446b284851a713885b5.jpg",
+            "description": "Gochujang is the star in this Korean-style chicken recipe. These smoky char-grilled chicken thighs are brushed and basted with a sweet and spicy sauce. We’re introducing a new summer favorite!",
+            "ingredients": {
+                "gochujang": "1/2 cup",
+                "maple syrup": "1/4 cup",
+                "apple juice": "1/4 cup",
+                "soy sauce": "2 tbsp",
+                "sesame oil": "2 tsp",
+                "garlic": "2 cloves",
+                "ginger": "1/2 inch piece",
+                "chicken thighs": "8"
+            },
+            "instructions": [
+                "Place the gochujang, maple syrup, apple juice, soy sauce, sesame oil, garlic, and ginger in a medium bowl or measuring cup. Whisk to combine. Place 1/2 cup of this paste in a small bowl and reserve the rest for basting while grilling.",
+                "Place chicken thighs in a large shallow pan. Using a pastry brush or spoon, lightly brush both sides of the chicken with the paste. ",
+                "To avoid contamination from raw chicken, discard the rest of the sauce you just used. Let the chicken sit at room temperature while you heat up the grill. This will allow the chicken thighs to come to room temperature before grilling.",
+                "Using a paper towel and tongs, oil your clean grill grates with canola, vegetable, or another high heat oil.",
+                "Preheat one side of your gas grill to medium-high heat for 10-15 minutes, 400°F to 450°F, or push hot coals to one side of a charcoal grill. The chicken will be transferred to the unheated side of the grill to finish cooking without direct heat.",
+                "Place chicken thighs, skin side down, on the oiled grates over the lit side of the grill. Close cover and grill for 3 to 5 minutes, or until you see good grill marks form. ",
+                "Flip the thighs and grill over direct heat again, an additional 3 to 5 minutes",
+                "After 10 minutes, brush the thighs with more paste. Using an instant-read thermometer, check the temperature of the chicken. It should read is between 150°F to 155°F, . ",
+                "Close lid and continue cooking until the thighs reach 165°F to 170°F, 10 to 15 minutes more.",
+                "When done, remove chicken thighs from grill, brush with more paste and let rest for 10 minutes before serving.",
+                "Garnish with chopped chives, sliced scallions, and toasted sesame seeds. Serve."
+            ]
+        },
+        "Chicken Soup" : {
+            "id": 24,
+            "link": "https://www.simplyrecipes.com/thmb/rWp3AzNBWdFAIhARJmQBk9y_Pns=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2005__02__cold-season-chicken-soup-horiz-a-1800-495bd82b5cad4fecb8809a0edf8536f6.jpg",
+            "description": "This light chicken broth soup is perfect for cold season! It's easy to digest and made with homemade chicken stock.",
+            "ingredients": {
+                "chicken stock": "4 cup",
+                "yellow onion": "1",
+                "carrots": "2",
+                "celery stalks": "2",
+                "fresh parsley": "1 tbsp",
+                "scallion": "1 tbsp"
+            },
+            "instructions": [
+                "In a 4 qt saucepan, heat a tablespoon of chicken fat (that has risen to the surface and solidified from your homemade stock) on medium high heat. If you don't have enough chicken fat, you can add some olive oil. Sauté the vegetables in the fat until the carrots are almost done.",
+                "While you are sautéing the vegetables, add the seasoning - the poultry seasoning, the crushed red pepper flakes, a pinch of salt and a pinch of pepper. Seasoning like this during the cooking of the vegetables brings out their flavor. According to my mother, crushed red pepper flakes or cayenne is very helpful for a cold, which is why it is part of this recipe.",
+                "Add the 4 cups of chicken stock. Bring to a low simmer. Cook until the carrots are just cooked through (about 5 to 10 minutes).",
+                "Check seasonings (you will likely need to add more salt) and adjust to taste."
+            ]
+        },
+        "Chicken Mango Lettuce Wraps" : {
+            "id": 25,
+            "link": "https://www.simplyrecipes.com/thmb/JoatSjHxB33UFsZtv9LtKbAE110=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2013__02__chicken-mango-lettuce-wraps-horiz-a-1600-5f5748f11b594965ba20a2fe1a770787.jpg",
+            "description": "Chicken Mango Lettuce wraps are light and nourishing, made with stir fried chicken, shiitake mushrooms, and diced mango, served in wraps of lettuce!",
+            "ingredients": {
+                "ground chicken": "1 lb",
+                "soy sauce": "2 tsp",
+                "cornstarch": "1 tsp",
+                "cooking oil": "1 tsp",
+                "shiitake mushroom": "4 oz",
+                "rice vinegar": "2 tsp",
+                "sesame oil": "1 tsp",
+                "mango": "1, diced",
+                "butter lettuce": "1",
+                "scallion": "2"
+            },
+            "instructions": [
+                "Place the ground chicken, soy sauce, and cornstarch in a large bowl. Mix to combine",
+                "Heat a wok or a large sauté pan on medium heat. Once the pan is hot, add the oil. Add the green onions and sliced shiitakes. Let cook for about a minute.",
+                "Increase the heat to high, and add the ground chicken, soy sauce, cornstarch mixture. Use a wooden spoon to break up the ground chicken and spread around the pan. Stir fry in this way for 5 to 7 minutes until the chicken is cooked through.",
+                "Add the seasoned rice vinegar, sesame oil, and diced mango. Remove from heat. Adjust seasonings (rice vinegar, sesame oil, soy sauce) to taste.",
+                "Scoop spoonfuls into the cups formed by the lettuce leaves to serve"
+            ]
+        },
+        "One Pot Mac and Cheese" : {
+            "id": 26,
+            "link": "https://www.tasteofhome.com/wp-content/uploads/2019/12/One-Pot-Mac-and-Cheese_EXPS_FT19_197484_F_1213_1-21.jpg?fit=700,1024",
+            "description": "This one-pot mac and cheese is a family favorite, and my 3-year-old is thrilled to see it coming to the dinner table",
+            "ingredients": {
+                "whole milk": "3 1/2 cups",
+                "water": "3 cups",
+                "macaroni": "1 package/16 oz",
+                "velveeta": "4 oz",
+                "cheddar cheese": "2 cups, shredded",
+                "salt": "1/2 tsp",
+                "pepper": "1/2 tsp"
+            },
+            "instructions": [
+                "In a Dutch oven, combine milk, water and macaroni.",
+                "Bring to a boil over medium heat. Reduce heat and simmer until macaroni is tender and almost all the cooking liquid has been absorbed, 12-15 minutes, stirring frequently.",
+                " Reduce heat to low; stir in cheeses until melted. Season with salt and pepper."
+            ]
+        },
+        "Cacio e Pepe" : {
+            "id": 27,
+            "link": "https://www.giallozafferano.com/images/228-22822/Spaghetti-Cacio-e-Pepe-Pecorino-and-black-pepper-spaghetti_1200x800.jpg",
+            "description": "Spaghetti with Cheese and Pepper",
+            "ingredients": {
+                "spaghetti": "1/2 lb",
+                "olive oil": "2 tbsps",
+                "unsalted butter": "2 tbsp",
+                "parmesan cheese": "4 oz",
+                "salt": "to taste",
+                "black pepper": "to taste"
+            },
+            "instructions": [
+                "Bring a large pot of salted water to a boil. Cook the pasta for 1 minute less than the package instructs, until al dente. Save 1 cup (240 ml) pasta water, then drain.",
+                "Heat a large sauté pan over medium heat. Add the olive oil, butter, and pepper, and stir to combine.",
+                "Stir in the reserved pasta water.",
+                "Toss in the cooked pasta. Reduce the heat to low.",
+                "Add the Parmesan and toss until the cheese is melted and the pasta is well-coated.",
+                "Season with salt, if desired."
+            ]
+        },
+        "Steak Hash" : {
+            "id": 28,
+            "link": "https://www.telegraph.co.uk/content/dam/recipes/2021/10/08/TELEMMGLPICT000273548045_trans_NvBQzQNjv4BqwlVq1xSGMUJ-e3SWdHsGbqE8EupX4f-BDgsuOzt2lt8.jpeg?imwidth=960",
+            "description": "5 ingredient steak hash, It's awesome and appears on our table alllllll the time.  ",
+            "ingredients": {
+                "flank steak": "1",
+                "olive oil": "2 tbsps",
+                "bell peppers": "3",
+                "onion": "1 sliced",
+                "paprika": "4 tsp",
+                "garlic salt": "2 tsp"
+            },
+            "instructions": [
+                "Heat a grill pan over high heat and sprinkle each side of the steak with the season salt.",
+                "Place the steak in the pan and turn down to medium heat. ",
+                "Cook for 6 to 8 minutes and turn over (longer for more well done, but it will get cooked more in the potato pan so don't over cook it), allowing it to finish cooking on the other side",
+                "Remove from pan and tent with foil on a plate for 10 minutes.",
+                "In a large saute pan over medium heat, add the first teaspoon of olive oil and add the peppers and onion. Cook until tender about 3 minutes.",
+                "Add the potatoes and remaining olive oil and cook until hot all the way through and golden on the outside.",
+                "Meanwhile, chop the steak, and once the potatoes are cooked add the steak, toss and allow to cook an additional 2 minutes. ",
+                "Serve with fresh cilantro for a little freshness."
+            ]
+        },
+        "Teriyaki Chicken" : {
+            "id": 29,
+            "link": "https://www.twopeasandtheirpod.com/wp-content/uploads/2022/02/Teriyaki-Chicken-9.jpg",
+            "description": "5 ingredient steak hash, It's awesome and appears on our table alllllll the time.  ",
+            "ingredients": {
+                "chicken thighs": "2 lb",
+                "soy sauce": "1 cup",
+                "brown sugar": "1/2 cup"
+            },
+            "instructions": [
+                "Sear the chicken thighs evenly in a pan, then flip.",
+                "Add the soy sauce and brown sugar, stirring and bringing to a boil.",
+                "Stir until the sauce has reduced and evenly glazes the chicken.",
+                "Serve with rice, if desired!"
+            ]
+        },
+        "3-Ingredient Pancakes" : {
+            "id": 30,
+            "link": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/d87481ad207a4e53aba210f30e3df414/BFV32433_3-IngredientBreakfasts-FB1080.jpg?resize=600:*&output-format=auto&output-quality=auto",
+            "description": "5 ingredient steak hash, It's awesome and appears on our table alllllll the time.  ",
+            "ingredients": {
+                "banana": "1",
+                "eggs": "2",
+                "cinnamon": "1/4 tsp",
+                "maple syrup": "to taste"
+            },
+            "instructions": [
+                "In a bowl, mash the banana with a fork",
+                "Add eggs and cinnamon. Mix until combined.",
+                "Heat a nonstick skillet over medium heat. Add a spoonful of batter and cook for 3-4 minutes, then flip and cook for an additional 3-4 minutes.",
+                "Serve with maple syrup or honey."
+            ]
+        }
+    }
+}
